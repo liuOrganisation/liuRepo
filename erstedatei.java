@@ -4,6 +4,7 @@ public class test {
 		System.out.println ("Lg Liu");
 		System.out.println("Hello merge Konflict");
         System.out.println ("Servus von Kevin!")
+	System.out.println '("Servas von Marcel!!");
 	}
 	
 	
